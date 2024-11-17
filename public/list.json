@@ -1,0 +1,82 @@
+[
+	{
+	"id":1,
+	"name":"Story Book",
+	"title":"This is new book for my friends life Story ",
+	"price":0,
+	"category":"Free",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":2,
+	"name":"Comedy Book",
+	"title":"This is new book for my friends life Story ",
+	"price":20,
+	"category":"Entertainment",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},{
+	"id":3,
+	"name":"sport Book",
+	"title":"This is new book for my friends life Story ",
+	"price":30,
+	"category":"sport",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":4,
+	"name":"music Book",
+	"title":"This is new book for my friends life Story ",
+	"price":20,
+	"category":"music",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":5,
+	"name":"Story Book",
+	"title":"This is new book for my friends life Story ",
+	"price":0,
+	"category":"Free",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":6,
+	"name":"Story Book",
+	"title":"This is new book for my friends life Story ",
+	"price":0,
+	"category":"Free",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":7,
+	"name":"Story Book",
+	"title":"This is new book for my friends life Story ",
+	"price":0,
+	"category":"Free",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":8,
+	"name":"Story Book",
+	"title":"This is new book for my friends life Story ",
+	"price":0,
+	"category":"Free",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+},
+{
+	"id":9,
+	"name":"food Book",
+	"title":"This is new book for my friends life Story ",
+	"price":0,
+	"category":"Food",
+	"image":"https://img.freepik.com/free-photo/3d-illustration-open-closed-books-pencil_107791-15848.jpg?t=st=1731237032~exp=1731240632~hmac=7dc63409a27af2d8204a77ac7fb4d398e43705db43482adab3fc12907f1a9ef8&w=740"
+
+}
+]
